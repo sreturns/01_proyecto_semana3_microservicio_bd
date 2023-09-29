@@ -1,0 +1,1 @@
+CREATE SCHEMA `biblioteca3` DEFAULT CHARACTER SET ascii ;
